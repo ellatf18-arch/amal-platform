@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0F4C3A" />
+  <rect x="36" y="36" width="440" height="440" rx="84" stroke="#D4A353" stroke-opacity="0.28" stroke-width="4" />
+  <!-- Geometric hospitality arch & A-monogram -->
+  <path
+    d="M256 108L142 384H194L219 320H293L318 384H370L256 108ZM234 276L256 218L278 276H234Z"
+    fill="#F8F9FA"
+  />
+  <!-- Warm gold Ethiopian hospitality accent diamond -->
+  <path d="M256 154L272 170L256 186L240 170L256 154Z" fill="#D4A353" />
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "AMAL",
+  "description": "One Intelligent Platform for Every Food and Hospitality Business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
